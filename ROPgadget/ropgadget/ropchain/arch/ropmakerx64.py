@@ -1,11 +1,10 @@
 #!/usr/bin/env python2
 ## -*- coding: utf-8 -*-
 ##
-##  Jonathan Salwan - 2014-05-13
-##  Florian Meier - 2014-08-31 - The 64b ROP chain generation
-## 
-##  http://shell-storm.org
-##  http://twitter.com/JonathanSalwan
+##  incon - 2014-05-12 - ROPgadget tool
+##
+##  http://twitter.com/Hexdumping
+##  
 ##
 
 import re
