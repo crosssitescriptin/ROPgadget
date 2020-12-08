@@ -1,11 +1,11 @@
 #!/usr/bin/env python2
 ## -*- coding: utf-8 -*-
 ##
-##  Jonathan Salwan - 2014-05-13
-## 
-##  http://shell-storm.org
-##  http://twitter.com/JonathanSalwan
-## 
+##  incon - 2014-05-12 - ROPgadget tool
+##
+##  http://twitter.com/Hexdumping
+##  
+##
 
 import re
 from   capstone import *
