@@ -1,9 +1,9 @@
 ## -*- coding: utf-8 -*-
 ##
-##  Christoffer Brodd-Reijer - 2014-07-20 - ROPgadget tool
+##  incon - 2014-05-12 - ROPgadget tool
 ##
-##  http://twitter.com/ephracis
-##  http://shell-storm.org/project/ROPgadget/
+##  http://twitter.com/Hexdumping
+##  
 ##
 
 import sys
