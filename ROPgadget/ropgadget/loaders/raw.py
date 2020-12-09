@@ -1,9 +1,9 @@
 ## -*- coding: utf-8 -*-
 ##
-##  Jonathan Salwan - 2014-05-12
+##  incon - 2014-05-12 - ROPgadget tool
 ##
-##  http://shell-storm.org
-##  http://twitter.com/JonathanSalwan
+##  http://twitter.com/Hexdumping
+##  
 ##
 
 from capstone import *
