@@ -1,4 +1,11 @@
 #!/usr/bin/env python
+## -*- coding: utf-8 -*-
+##
+##  incon - 2014-05-12 - ROPgadget tool
+##
+##  http://twitter.com/Hexdumping
+##  
+##
 
 from    setuptools import setup
 import  os
